@@ -1,6 +1,5 @@
 ---
 title:  Brenda's Chocolate Brownies
-layout: default
 ---
 
 ## Ingredients

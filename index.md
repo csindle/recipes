@@ -1,11 +1,6 @@
 ---
-title: Home
-
-layout: default
-
+title: Jill's Recipes
 ---
-
-![crater](img/crater.jpg)
 
 <h2>Baking</h2>
 
@@ -27,3 +22,5 @@ layout: default
 </p>
 {% endfor %}
 
+
+![crater](img/crater.jpg)

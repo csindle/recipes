@@ -1,6 +1,5 @@
 ---
 title:  "Brenda's Microwave Chocolate Cake"
-layout: default
 ---
 
 ## Ingredients

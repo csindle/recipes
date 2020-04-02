@@ -1,6 +1,5 @@
 ---
 title:  TEMPLATE
-layout: default
 ---
 
 ## Ingredients

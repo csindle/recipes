@@ -1,6 +1,5 @@
 ---
 title:  Chocolate Squares
-layout: default
 ---
 
 ## Method

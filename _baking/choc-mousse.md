@@ -1,6 +1,5 @@
 ---
 title:  Chocolate Mousse
-layout: default
 ---
 
 ## Ingredients

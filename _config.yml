@@ -24,27 +24,32 @@ description: >- # this means to ignore newlines until "baseurl:"
   All the family favourites!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://recipes.succinct.co.za" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: csindle
-#github_username:  csindle
+twitter_username: csindle
+github_username:  csindle
 
 # Build settings
-theme: jekyll-theme-cayman
-#theme: jekyll-theme-cayman
+#theme: minima
+theme: jekyll-theme-cayman  # https://github.com/pages-themes/cayman
+
+
+#show_downloads: false
 
 collections:
   baking:
     output: true
-    permalink: /baking/:path/
   savoury:
     output: true
-    permalink: /savoury/:path/
+
+defaults:
+  - scope:
+      path: ""
+#      type: "baking"  # "savoury"
+    values:
+      layout: default
 
 #plugins:
 #  - jekyll-feed
-#
-#plugins:
 #  - jekyll-default-layout
-#
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -53,12 +58,12 @@ collections:
 #
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
-#
 
 exclude:
   - trash/
   - Gemfile
   - Gemfile.lock
+  - "*template.md"
 
 #   - .sass-cache/
 #   - .jekyll-cache/
@@ -70,4 +75,3 @@ exclude:
 #   - vendor/ruby/
 
 markdown: kramdown
-

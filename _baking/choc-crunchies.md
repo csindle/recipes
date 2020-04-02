@@ -1,6 +1,5 @@
 ---
 title:  "Chocolate Crunchies"
-layout: default
 ---
 
 ## Ingredients

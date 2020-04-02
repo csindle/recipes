@@ -1,6 +1,5 @@
 ---
 title:  Chocolate Tiffin
-layout: default
 ---
 
 ## Ingredients
