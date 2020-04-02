@@ -11,7 +11,9 @@ layout: default
 
 {% for recipe in site.baking %}
 <p>
-  <a class="post-link" href="{{ recipe.url | prepend: site.baseurl }}">{{ recipe.title }}</a>
+  <a class="post-link" href="{{ recipe.url | prepend: site.baseurl }}">
+  {{ recipe.title }}
+  </a>
 </p>
 {% endfor %}
 
@@ -19,7 +21,9 @@ layout: default
 <h2>Savoury</h2>
 {% for recipe in site.savoury %}
 <p>
-  <a class="post-link" href="{{ recipe.url | prepend: site.baseurl }}">{{ recipe.title }}</a>
+  <a class="post-link" href="{{ recipe.url | prepend: site.baseurl }}">
+  {{ recipe.title }}
+  </a>
 </p>
 {% endfor %}
 
