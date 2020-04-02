@@ -28,7 +28,7 @@ url: "https://recipes.succinct.co.za" # the base hostname & protocol for your si
 #github_username:  csindle
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 #theme: jekyll-theme-cayman
 
 collections:
