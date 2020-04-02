@@ -23,4 +23,4 @@ title: Jill's Recipes
 {% endfor %}
 
 
-![crater](img/crater.jpg)
+![crater](assets/img/crater.jpg)
