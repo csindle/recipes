@@ -12,7 +12,7 @@ title: Jill's Recipes
 </p>
 {% endfor %}
 
-
+---
 <h2>Savoury</h2>
 {% for recipe in site.savoury %}
 <p>
@@ -22,5 +22,6 @@ title: Jill's Recipes
 </p>
 {% endfor %}
 
+---
 
 ![crater](assets/img/crater.jpg)
