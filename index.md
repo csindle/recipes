@@ -2,25 +2,36 @@
 title: Jill's Recipes
 ---
 
-<h2>Baking</h2>
+<div class="row">
 
-{% for recipe in site.baking %}
-<p>
-  <a class="post-link" href="{{ recipe.url | prepend: site.baseurl }}">
-  {{ recipe.title }}
-  </a>
-</p>
-{% endfor %}
+  <div class="column">
+  <h2>Sweet</h2>
+    {% for recipe in site.baking %}
+    <p>
+      <a class="post-link" href="{{ recipe.url | prepend: site.baseurl }}">
+      {{ recipe.title }}
+      </a>
+    </p>
+    {% endfor %}
+  </div>
+  
+  <div class="column">
+  <h2>Savoury</h2>
+    {% for recipe in site.savoury %}
+    <p>
+      <a class="post-link" href="{{ recipe.url | prepend: site.baseurl }}">
+      {{ recipe.title }}
+      </a>
+    </p>
+    {% endfor %}
+  </div>
+  
+</div> 
+
+
 
 ---
-<h2>Savoury</h2>
-{% for recipe in site.savoury %}
-<p>
-  <a class="post-link" href="{{ recipe.url | prepend: site.baseurl }}">
-  {{ recipe.title }}
-  </a>
-</p>
-{% endfor %}
+
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title:  Toad in the Hole
+title:  Toad-in-the-Hole
 ---
 
 ## Ingredients & Method
