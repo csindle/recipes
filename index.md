@@ -29,10 +29,4 @@ title: Jill's Recipes
 </div> 
 
 
-
----
-
-
----
-
 ![crater](assets/img/crater.jpg)
