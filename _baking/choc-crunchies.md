@@ -1,10 +1,8 @@
 ---
-title:  "Chocolate Crunchies"
+title: Chocolate Crunchies
 ---
 
 ## Ingredients
-
-
 ### Base
 
 12 oz marge/butter
@@ -28,6 +26,8 @@ title:  "Chocolate Crunchies"
 1 Dsp butter
 
 1 Tbs  cocoa  
+
+---
 
 ## Method
 

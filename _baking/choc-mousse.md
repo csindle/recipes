@@ -1,5 +1,5 @@
 ---
-title:  Chocolate Mousse
+title: Chocolate Mousse
 ---
 
 ## Ingredients
@@ -13,6 +13,8 @@ title:  Chocolate Mousse
 2 tbs castor sugar
 
 150-200ml cream
+
+---
 
 ## Method
 

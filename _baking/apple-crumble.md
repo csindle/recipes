@@ -1,5 +1,5 @@
 ---
-title:  "Apple Crumble"
+title: Apple Crumble
 ---
 
 ## Ingredients
@@ -23,6 +23,8 @@ Knob of butter for greasing
 1 tbsp plain flour
 
 1 pinch of ground cinnamon
+
+---
 
 ## Method
 1. Preheat the oven to 180C/350F/Gas 4.

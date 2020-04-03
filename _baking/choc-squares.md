@@ -1,9 +1,8 @@
 ---
-title:  Chocolate Squares
+title: Chocolate Squares
 ---
 
 ## Method
-
 
 Boil for 5min:
 

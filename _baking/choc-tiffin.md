@@ -1,5 +1,5 @@
 ---
-title:  Chocolate Tiffin
+title: Chocolate Tiffin
 ---
 
 ## Ingredients
@@ -16,6 +16,7 @@ title:  Chocolate Tiffin
 
 150g chocolate
 
+---
 
 ## Method
 

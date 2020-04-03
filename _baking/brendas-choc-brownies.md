@@ -1,5 +1,5 @@
 ---
-title:  Brenda's Chocolate Brownies
+title: Brenda's Chocolate Brownies
 ---
 
 ## Ingredients
@@ -16,6 +16,7 @@ title:  Brenda's Chocolate Brownies
 
 vanilla essence
 
+---
 
 ## Method
 

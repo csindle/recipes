@@ -1,5 +1,5 @@
 ---
-title:  "Baked Cheesecake"
+title: Baked Cheesecake
 ---
 
 ## Ingredients
@@ -18,6 +18,8 @@ title:  "Baked Cheesecake"
 1 tin condensed milk
 
 2 beaten egg yolks
+
+---
 
 ## Method
 

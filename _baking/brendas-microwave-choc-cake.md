@@ -1,5 +1,5 @@
 ---
-title:  "Brenda's Microwave Chocolate Cake"
+title: Brenda's Microwave Chocolate Cake
 ---
 
 ## Ingredients
@@ -8,6 +8,7 @@ title:  "Brenda's Microwave Chocolate Cake"
 * 1 cup (250 ml) castor sugar
 * 4 tsps baking powder + pinch salt
 
+---
 
 ## Method
 
