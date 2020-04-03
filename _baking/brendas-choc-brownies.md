@@ -26,7 +26,7 @@ Pour in the melted marge, mix well and then add the eggs and vanilla.
 Lastly the flour.
 Spoon out into large roasting pan.
 
-Bake about 350 F for about 20 min.
+Bake about 180°C (350℉) for about 20 min.
 Till lighter in colour.
 Do not over-cook!
 
