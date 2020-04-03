@@ -7,8 +7,11 @@ title: Ice-cream
 500 ml cream
 
 2 eggs
+
 1 tin condensed milk
+
 1 dstp honey
+
 1 tsp vanilla
 
 ---
