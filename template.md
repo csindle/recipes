@@ -16,10 +16,26 @@ description: Optional. Remove this entire line if not required.
 Put an extra line between each item.
 
 Use metric measurements.
+Prefer grams over ml or cups.
 
 ---
 
 ## Method
 
+Some symbols for you:
+
+℃
+
+℉
+
+½
+
+¼
+
+¾
+
+⅓
+
+⅔
 
 

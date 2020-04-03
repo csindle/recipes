@@ -69,7 +69,7 @@ exclude:
   - trash/
   - Gemfile
   - Gemfile.lock
-  - template.md
+#  - template.md
 
 #   - .sass-cache/
 #   - .jekyll-cache/
