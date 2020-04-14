@@ -9,13 +9,15 @@ description: (or Anzac Biscuits)
 
 1½ cups porridge oats
 
-1½ cups flour + 2 tsp baking powder
+1½ cups flour + 2 teaspoons baking powder
 
 1 cup brown sugar
 
-2 flat tsp bicarb.
+2 flat teaspoons bicarbonate soda
 
-2 Tbs syrup
+2 Tablespoons cold water
+
+1 Tablespoon syrup
 
 230g marge/butter or 160 ml oil.
 
