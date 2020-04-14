@@ -15,9 +15,9 @@ description: (or Anzac Biscuits)
 
 2 flat teaspoons bicarbonate soda
 
-2 Tablespoons cold water
+2 tablespoons cold water
 
-1 Tablespoon syrup
+1 tablespoon syrup
 
 230g marge/butter or 160 ml oil.
 
