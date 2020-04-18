@@ -27,6 +27,8 @@ url: "https://recipes.succinct.co.za" # the base hostname & protocol for your si
 twitter_username: csindle
 github_username:  csindle
 
+google_analytics: UA-149593504-2
+
 # Build settings
 #theme: minima
 theme: jekyll-theme-cayman  # https://github.com/pages-themes/cayman
