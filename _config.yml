@@ -37,7 +37,7 @@ theme: jekyll-theme-cayman  # https://github.com/pages-themes/cayman
 #show_downloads: false
 
 collections:
-  baking:
+  sweet:
     output: true
   savoury:
     output: true
@@ -45,7 +45,7 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "baking"
+      type: "sweet"
     values:
       layout: recipe
   - scope:

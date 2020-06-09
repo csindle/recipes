@@ -6,7 +6,7 @@ title: Jill's Recipes
 
   <div class="column">
   <h2>Sweet</h2>
-    {% for recipe in site.baking %}
+    {% for recipe in site.sweet %}
     <p>
       <a class="post-link" href="{{ recipe.url | prepend: site.baseurl }}">
       {{ recipe.title }}

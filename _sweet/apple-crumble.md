@@ -27,11 +27,9 @@ Knob of butter for greasing
 ---
 
 ## Method
-1. Preheat the oven to 180C/350F/Gas 4.
+1. Preheat the oven to 180℃/350℉/Gas 4.
 2. Place the flour and sugar in a large bowl and mix well. Taking a few cubes of butter at a time rub into the flour mixture. Keep rubbing until the mixture resembles breadcrumbs.
 3. Place the fruit in a large bowl and sprinkle over the sugar, flour and cinnamon. Stir well being careful not to break up the fruit.
 4. Butter a 24cm/9in ovenproof dish. Spoon the fruit mixture into the bottom, then sprinkle the crumble mixture on top.
 5. Bake in the oven for 40-45 minutes until the crumble is browned and the fruit mixture bubbling.
 6. Serve with thick cream or custard.
-
-
