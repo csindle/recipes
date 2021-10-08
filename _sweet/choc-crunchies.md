@@ -5,7 +5,7 @@ title: Chocolate Crunchies
 ## Ingredients
 ### Base
 
-12 oz marge/butter
+12 oz marge/butter (or 270 g oil and 70 g hot water)
 
 2 cups coconut
 
@@ -15,7 +15,7 @@ title: Chocolate Crunchies
 
 1 cup brown sugar
 
-2 tsp B.P.
+2 tsp baking powder
 
 2 dessertspoons cocoa
 
@@ -35,7 +35,7 @@ title: Chocolate Crunchies
 Melt butter/marge.
 Mix the dry ingredients well and add melted butter.
 Press into greased large roasting pan.
-Bake at 180 for about 35 min.until darkening at edges.
+Bake at 180 for about 35 minutes until darkening at edges.
 Remove from oven and ice with:
 
 ### Icing
